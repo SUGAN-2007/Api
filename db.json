@@ -1,0 +1,452 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "title": "Black Sleeveless Vest",
+      "image": "/images/Black Sleeveless Vest.png",
+      "description": "A premium black vest made with smooth woven fabric that feels soft on the skin. Offers a crisp structure and lightweight comfort. Sleeveless design ideal for layering.",
+      "category": "mens",
+      "price": "₹1199"
+    },
+    {
+      "id": 2,
+      "title": "Cream Full-Sleeve Shirt",
+      "image": "/images/Cream Full-Sleeve Shirt.png",
+      "description": "A cream-colored full-sleeve shirt crafted from breathable cotton for all-day comfort. Soft, smooth texture with a clean modern silhouette. Perfect for smart casual wear.",
+      "category": "mens",
+      "price": "₹1499"
+    },
+    {
+      "id": 3,
+      "title": "Black Casual Cardigan",
+      "image": "/images/Black Casual Cardigan.png",
+      "description": "A deep black cardigan made from warm, premium knit fabric. Soft touch with flexible stretch for comfortable layering. Long-sleeve design suitable for cool weather.",
+      "category": "mens",
+      "price": "₹1799"
+    },
+    {
+      "id": 4,
+      "title": "Sky Blue Formal Shirt",
+      "image": "/images/Sky Blue Formal Shirt.png",
+      "description": "A sky-blue full-sleeve shirt made from smooth cotton blend fabric. Lightweight and breathable with a refined finish. Ideal for office and formal occasions.",
+      "category": "mens",
+      "price": "₹1599"
+    },
+    {
+      "id": 5,
+      "title": "Navy Premium Sweatshirt",
+      "image": "/images/Navy Premium Sweatshirt.png",
+      "description": "A navy sweatshirt crafted with soft brushed cotton for warmth and comfort. Smooth finish with durable stitching. Long sleeves make it perfect for everyday wear.",
+      "category": "mens",
+      "price": "₹1399"
+    },
+    {
+      "id": 6,
+      "title": "Black Formal Blazer",
+      "image": "/images/Black Formal Blazer.png",
+      "description": "A sleek black blazer made from premium woven fabric with a smooth matte texture. Full sleeves and structured shoulders provide a sharp modern look.",
+      "category": "mens",
+      "price": "₹2899"
+    },
+    {
+      "id": 7,
+      "title": "Black Zip-Up Sweater",
+      "image": "/images/Black Zip-Up Sweater.png",
+      "description": "A jet-black zip-up sweater crafted from soft knitted material. Offers great insulation with a comfortable stretch fit. Full sleeves for added warmth.",
+      "category": "mens",
+      "price": "₹1699"
+    },
+    {
+      "id": 8,
+      "title": "Maroon Casual Tee",
+      "image": "/images/Maroon Casual Tee.png",
+      "description": "A maroon short-sleeve tee made with breathable cotton fabric. Soft texture ensures comfort all day. Perfect for casual and everyday styling.",
+      "category": "mens",
+      "price": "₹899"
+    },
+    {
+      "id": 9,
+      "title": "Dark Green Crew Neck Tee",
+      "image": "/images/Dark Green Crew Neck Tee.png",
+      "description": "A dark green short-sleeve t-shirt made from high-quality cotton. Smooth, lightweight, and comfortable for everyday wear. Ideal for casual styling.",
+      "category": "mens",
+      "price": "₹899"
+    },
+    {
+      "id": 10,
+      "title": "Beige Premium Blazer",
+      "image": "/images/Beige Premium Blazer.png",
+      "description": "A premium beige blazer crafted with soft textured fabric. Offers a structured fit with long sleeves and a refined modern look. Ideal for events and semi-formal styling.",
+      "category": "mens",
+      "price": "₹2999"
+    },
+    {
+      "id": 11,
+      "title": "Checked Casual Shirt",
+      "image": "/images/Checked Casual Shirt.png",
+      "description": "A brown-and-white checked shirt made from breathable cotton fabric. Long sleeves and a comfortable fit make it great for both casual and semi-formal looks.",
+      "category": "mens",
+      "price": "₹1399"
+    },
+    {
+      "id": 12,
+      "title": "Light Pink Soft Sweater",
+      "image": "/images/Light Pink Soft Sweater.png",
+      "description": "A light pink sweater made from ultra-soft knit fabric for warmth and comfort. Smooth texture with long sleeves for cozy everyday wear.",
+      "category": "mens",
+      "price": "₹1599"
+    },
+    {
+      "id": 13,
+      "title": "White Full-Sleeve Shirt",
+      "image": "/images/White Full-Sleeve Shirt.png",
+      "description": "A crisp white full-sleeve shirt crafted with smooth cotton fabric. Clean, breathable, and ideal for formal or business occasions.",
+      "category": "mens",
+      "price": "₹1499"
+    },
+    {
+      "id": 14,
+      "title": "Blue Wide-Leg Jeans",
+      "image": "/images/Blue Wide-Leg Jeans.png",
+      "description": "Comfortable blue denim jeans crafted from durable cotton fabric. The wide-leg fit gives a relaxed and stylish look. Perfect for everyday casual wear.",
+      "category": "mens",
+      "price": "₹1799"
+    },
+    {
+      "id": 15,
+      "title": "Navy Straight Fit Pants",
+      "image": "/images/Navy Straight Fit Pants.png",
+      "description": "A navy straight-fit pant made from smooth woven fabric. Soft texture and breathable feel make it ideal for daily use. Tailored for a clean silhouette.",
+      "category": "mens",
+      "price": "₹1599"
+    },
+    {
+      "id": 16,
+      "title": "Beige Slim Fit Trousers",
+      "image": "/images/Beige Slim Fit Trousers.png",
+      "description": "Premium beige trousers crafted with soft stretchable fabric. Slim-fit cut gives a modern and polished look. Suitable for semi-formal and casual styling.",
+      "category": "mens",
+      "price": "₹1699"
+    },
+    {
+      "id": 17,
+      "title": "Black Formal Pants",
+      "image": "/images/Black Formal Pants.png",
+      "description": "Classic black formal pants made with high-quality blended fabric. Offers a crisp structure with a comfortable full-length design. Ideal for office or formal events.",
+      "category": "mens",
+      "price": "₹1899"
+    },
+    {
+      "id": 18,
+      "title": "White Cotton Trousers",
+      "image": "/images/White Cotton Trousers.png",
+      "description": "Lightweight white trousers crafted from breathable cotton. Smooth texture with a straight-cut fit. Perfect for summer and relaxed outfits.",
+      "category": "mens",
+      "price": "₹1599"
+    },
+    {
+      "id": 19,
+      "title": "Grey Modern Fit Pants",
+      "image": "/images/Grey Modern Fit Pants.png",
+      "description": "A grey pair of modern-fit pants with a clean, polished look. Crafted from soft blended fabric for comfort. Long-lasting and ideal for daily styling.",
+      "category": "mens",
+      "price": "₹1699"
+    },
+    {
+      "id": 20,
+      "title": "Brown Casual Trousers",
+      "image": "/images/Brown Casual Trousers.png",
+      "description": "Soft brown trousers designed with a casual slim fit. Smooth cotton-blend fabric makes it comfortable for all-day use. Great for relaxed outings.",
+      "category": "mens",
+      "price": "₹1499"
+    },
+    {
+      "id": 21,
+      "title": "Black Relaxed Fit Pants",
+      "image": "/images/Black Relaxed Fit Pants.png",
+      "description": "A pair of deep black relaxed-fit trousers made from breathable fabric. Comfortable full-length design with a smooth finish. Perfect for everyday wear.",
+      "category": "mens",
+      "price": "₹1599"
+    },
+    {
+      "id": 22,
+      "title": "Dark Blue Denim Jeans",
+      "image": "/images/Dark Blue Denim Jeans.png",
+      "description": "Dark blue denim jeans crafted with durable cotton denim. Features a comfortable regular fit and long-lasting stitching. Ideal for casual use.",
+      "category": "mens",
+      "price": "₹1799"
+    },
+    {
+      "id": 23,
+      "title": "Cream Classic Trousers",
+      "image": "/images/Cream Classic Trousers.png",
+      "description": "A pair of cream trousers designed with a classic straight fit. Made from soft woven material for superior comfort. Suitable for both casual and formal looks.",
+      "category": "mens",
+      "price": "₹1699"
+    },
+    {
+      "id": 24,
+      "title": "Black Draped Long Sleeve Top",
+      "image": "/images/Black Draped Long Sleeve Top.png",
+      "description": "A stylish black long-sleeve top with elegant draped detailing. Made from soft stretch fabric that feels smooth on the skin. Perfect for evening wear or chic casual styling.",
+      "category": "womens",
+      "price": "₹1499"
+    },
+    {
+      "id": 25,
+      "title": "Black Knit Cardigan Top",
+      "image": "/images/Black Knit Cardigan Top.png",
+      "description": "A premium black knit top crafted from warm and breathable fabric. Long sleeves with a soft, cozy texture make it great for layering. Perfect for cool-weather outfits.",
+      "category": "womens",
+      "price": "₹1699"
+    },
+    {
+      "id": 26,
+      "title": "Cream Short Sleeve Dress Top",
+      "image": "/images/Cream Short Sleeve Dress Top.png",
+      "description": "A lightweight cream short-sleeve top made from airy fabric. Soft, comfortable, and perfect for daily wear. Its flowy design adds elegance to any outfit.",
+      "category": "womens",
+      "price": "₹1399"
+    },
+    {
+      "id": 27,
+      "title": "White Off-Shoulder Knit Top",
+      "image": "/images/White Off-Shoulder Knit Top.png",
+      "description": "A stylish white off-shoulder knit top with a soft ribbed texture. Crafted from warm, gentle fabric. Ideal for modern, chic winter styling.",
+      "category": "womens",
+      "price": "₹1599"
+    },
+    {
+      "id": 28,
+      "title": "Black Winter Coat",
+      "image": "/images/Black Winter Coat.png",
+      "description": "A sleek black winter coat designed with thick, insulating fabric. Long sleeves and a structured fit offer warmth and style. Perfect for cold seasons.",
+      "category": "womens",
+      "price": "₹2499"
+    },
+    {
+      "id": 29,
+      "title": "Beige Short Sleeve Fleece Top",
+      "image": "/images/Beige Short Sleeve Fleece Top.png",
+      "description": "A beige fleece top with soft plush fabric and short sleeves. Lightweight yet warm, making it ideal for cozy casual wear. Smooth texture and gentle feel.",
+      "category": "womens",
+      "price": "₹1299"
+    },
+    {
+      "id": 30,
+      "title": "Cream High-Neck Wool Sweater",
+      "image": "/images/Cream High-Neck Wool Sweater.png",
+      "description": "A premium cream high-neck sweater made from warm wool-blend fabric. Soft, thick, and perfect for winter layering. Long sleeves add extra comfort.",
+      "category": "womens",
+      "price": "₹1899"
+    },
+    {
+      "id": 31,
+      "title": "Grey Ribbed Knit Top",
+      "image": "/images/Grey Ribbed Knit Top.png",
+      "description": "A grey ribbed knit top with a smooth, stretchy texture. Long sleeves and a soft fabric feel make it comfortable for all-day wear. Minimal and stylish.",
+      "category": "womens",
+      "price": "₹1499"
+    },
+    {
+      "id": 32,
+      "title": "Brown Faux Fur Jacket",
+      "image": "/images/Brown Faux Fur Jacket.png",
+      "description": "A brown faux fur jacket crafted from plush, warm material. Soft, luxurious feel with long sleeves. Perfect for elegant winter outfits.",
+      "category": "womens",
+      "price": "₹2599"
+    },
+    {
+      "id": 33,
+      "title": "Maroon Knit Sweater",
+      "image": "/images/Maroon Knit Sweater.png",
+      "description": "A rich maroon knit sweater with warm, cozy fabric. Features long sleeves and a smooth finish for ultimate comfort. Ideal for winter and fall outfits.",
+      "category": "womens",
+      "price": "₹1699"
+    },
+    {
+      "id": 34,
+      "title": "Beige Pleated Knit Top",
+      "image": "/images/Beige Pleated Knit Top.png",
+      "description": "A beige knit top featuring soft pleated detailing. Comfortable wool-blend fabric with long sleeves. Great for subtle elegant styles.",
+      "category": "womens",
+      "price": "₹1599"
+    },
+    {
+      "id": 35,
+      "title": "Light Blue Buttoned Knit Cardigan",
+      "image": "/images/Light Blue Buttoned Knit Cardigan.png",
+      "description": "A light blue cardigan crafted with soft knit material. Button-down front and long sleeves make it perfect for layering. Cozy, warm, and stylish.",
+      "category": "womens",
+      "price": "₹1799"
+    },
+    {
+      "id": 36,
+      "title": "Wine Red Long Sleeve Sweater",
+      "image": "/images/Wine Red Long Sleeve Sweater.png",
+      "description": "A wine-red sweater made with warm knitted fabric. Smooth and comfortable with long sleeves for extra coverage. Great for winter outfits.",
+      "category": "womens",
+      "price": "₹1599"
+    },
+    {
+      "id": 37,
+      "title": "Dark Green Wide-Leg Pants",
+      "image": "/images/Dark Green Wide-Leg Pants.png",
+      "description": "Relaxed-fit wide-leg pants in deep green. Soft drape with a smooth matte texture, perfect for casual or semi-formal outfits.",
+      "category": "womens",
+      "price": "₹1399"
+    },
+    {
+      "id": 38,
+      "title": "Wine Red Straight Pants",
+      "image": "/images/Wine Red Straight Pants.png",
+      "description": "Straight-cut pants featuring a rich wine-red shade. Clean silhouette suitable for office and daily wear.",
+      "category": "womens",
+      "price": "₹1499"
+    },
+    {
+      "id": 39,
+      "title": "Black Slim-Fit Pants",
+      "image": "/images/Black Slim-Fit Pants.png",
+      "description": "Minimalistic slim-fit black pants designed for a crisp, streamlined look. Comfortable stretch for everyday movement.",
+      "category": "womens",
+      "price": "₹1599"
+    },
+    {
+      "id": 40,
+      "title": "Black Patterned Palazzo Pants",
+      "image": "/images/Black Patterned Palazzo Pants.png",
+      "description": "Lightweight palazzo pants featuring a soft pattern. Airy, flowy, and ideal for relaxed or summer outfits.",
+      "category": "womens",
+      "price": "₹1699"
+    },
+    {
+      "id": 41,
+      "title": "Beige High-Waist Trousers",
+      "image": "/images/Beige High-Waist Trousers.png",
+      "description": "High-rise beige trousers with a structured fit. A wardrobe essential for formal and business styling.",
+      "category": "womens",
+      "price": "₹1799"
+    },
+    {
+      "id": 42,
+      "title": "Dark Blue Straight Jeans",
+      "image": "/images/Dark Blue Straight Jeans.png",
+      "description": "Classic straight-fit jeans in deep blue denim. Durable, comfortable, and suitable for daily wear.",
+      "category": "womens",
+      "price": "₹1699"
+    },
+    {
+      "id": 42,
+      "title": "Light Blue High-Rise Jeans",
+      "image": "/images/Light Blue High-Rise Jeans.png",
+      "description": "Light-wash jeans with a flattering high-rise fit. Gives a modern, fresh denim look.",
+      "category": "womens",
+      "price": "₹1699"
+    },
+    {
+      "id": 44,
+      "title": "Gray Loose-Fit Wool Pants",
+      "image": "/images/Gray Loose-Fit Wool Pants.png",
+      "description": "Soft gray wool pants with a relaxed fit. Warm and breathable, ideal for cool-weather outfits.",
+      "category": "womens",
+      "price": "₹1899"
+    },
+    {
+      "id": 45,
+      "title": "Black Casual Jogger Pants",
+      "image": "/images/Black Casual Jogger Pants.png",
+      "description": "Comfortable black joggers designed with a tapered fit. Perfect for casual wear or athleisure styling.",
+      "category": "womens",
+      "price": "₹1299"
+    },
+    {
+      "id": 46,
+      "title": "White Straight-Leg Trousers",
+      "image": "/images/White Straight-Leg Trousers.png",
+      "description": "Crisp white trousers with a straight-leg profile. Clean and minimal design suitable for both formal and casual looks.",
+      "category": "womens",
+      "price": "₹1799"
+    },
+    {
+      "id": 47,
+      "title": "Black Fit & Flare Dress",
+      "image": "/images/Black Fit & Flare Dress.png",
+      "description": "Elegant black fit and flare dress with a structured bodice and flowing skirt. Perfect for evening wear and formal occasions.",
+      "category": "womens",
+      "price": "₹1999"
+    },
+    {
+      "id": 48,
+      "title": "Charcoal Blazer Dress",
+      "image": "/images/Charcoal Blazer Dress.png",
+      "description": "Modern charcoal blazer-style dress featuring a tailored fit and sharp lapels. Ideal for power dressing and smart outings.",
+      "category": "womens",
+      "price": "₹2499"
+    },
+    {
+      "id": 49,
+      "title": "Red Double-Breasted Coat Dress",
+      "image": "/images/Red Double-Breasted Coat Dress.png",
+      "description": "Bold red coat-style dress with a double-breasted front. Makes a strong statement while keeping a clean silhouette.",
+      "category": "womens",
+      "price": "₹2899"
+    },
+    {
+      "id": 50,
+      "title": "Plum Sleeveless Midi Dress",
+      "image": "/images/Plum Sleeveless Midi Dress.png",
+      "description": "Minimal plum-colored midi dress with a sleeveless cut. Sleek, graceful, and suitable for both casual and semi-formal looks.",
+      "category": "womens",
+      "price": "₹1799"
+    },
+    {
+      "id": 51,
+      "title": "Black Bodycon Dress",
+      "image": "/images/Black Bodycon Dress.png",
+      "description": "Classic black bodycon dress with a figure-hugging fit. A timeless essential for parties and night events.",
+      "category": "womens",
+      "price": "₹1699"
+    },
+    {
+      "id": 52,
+      "title": "Navy Blue Satin Dress",
+      "image": "/images/Navy Blue Satin Dress.png",
+      "description": "Smooth navy blue satin dress with a soft drape and refined finish. Designed for elegant evenings and dinners.",
+      "category": "womens",
+      "price": "₹2199"
+    },
+    {
+      "id": 53,
+      "title": "Red Ruffle Mini Dress",
+      "image": "/images/Red Ruffle Mini Dress.png",
+      "description": "Playful red mini dress featuring ruffle detailing and a flared hem. Perfect for festive and casual outings.",
+      "category": "womens",
+      "price": "₹1599"
+    },
+    {
+      "id": 54,
+      "title": "Brown Relaxed Fit Dress",
+      "image": "/images/Brown Relaxed Fit Dress.png",
+      "description": "Comfortable brown dress with a relaxed silhouette. Simple, versatile, and easy to style for everyday wear.",
+      "category": "womens",
+      "price": "₹1499"
+    },
+    {
+      "id": 55,
+      "title": "Maroon Short Dress",
+      "image": "/images/Maroon Short Dress.png",
+      "description": "Chic maroon short dress with a flattering cut. Designed for casual evenings and social gatherings.",
+      "category": "womens",
+      "price": "₹1699"
+    },
+    {
+      "id": 56,
+      "title": "Pastel Yellow Midi Dress",
+      "image": "/images/Pastel Yellow Midi Dress.png",
+      "description": "Soft pastel yellow midi dress with a clean and airy look. Lightweight and ideal for daytime wear.",
+      "category": "womens",
+      "price": "₹1899"
+    }
+  ]
+}
