@@ -20,7 +20,8 @@ Lightweight Express API serving a clothing catalog from `db.json`. Images live i
 ```bash
 curl -X POST http://localhost:5000/api/clothes \
   -H "Content-Type: application/json" \
-  -d '{
+  {
+    "id" : 1,
     "title": "New T-Shirt",
     "image": "/images/new-tshirt.png",
     "description": "Soft cotton tee",
