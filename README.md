@@ -1,4 +1,4 @@
-# Clothes API
+# E-com API
 
 Lightweight Express API serving a clothing catalog from `db.json`. Images live in `public/images` and are exposed through absolute URLs at runtime. Data changes are kept in memory only (not written back to `db.json`).
 
