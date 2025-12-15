@@ -290,86 +290,6 @@
     },
     {
       "id": 37,
-      "title": "Dark Green Wide-Leg Pants",
-      "image": "/images/Dark Green Wide-Leg Pants.png",
-      "description": "Relaxed-fit wide-leg pants in deep green. Soft drape with a smooth matte texture, perfect for casual or semi-formal outfits.",
-      "category": "womens",
-      "price": "₹ 1399"
-    },
-    {
-      "id": 38,
-      "title": "Wine Red Straight Pants",
-      "image": "/images/Wine Red Straight Pants.png",
-      "description": "Straight-cut pants featuring a rich wine-red shade. Clean silhouette suitable for office and daily wear.",
-      "category": "womens",
-      "price": "₹ 1499"
-    },
-    {
-      "id": 39,
-      "title": "Black Slim-Fit Pants",
-      "image": "/images/Black Slim-Fit Pants.png",
-      "description": "Minimalistic slim-fit black pants designed for a crisp, streamlined look. Comfortable stretch for everyday movement.",
-      "category": "womens",
-      "price": "₹ 1599"
-    },
-    {
-      "id": 40,
-      "title": "Black Patterned Palazzo Pants",
-      "image": "/images/Black Patterned Palazzo Pants.png",
-      "description": "Lightweight palazzo pants featuring a soft pattern. Airy, flowy, and ideal for relaxed or summer outfits.",
-      "category": "feature",
-      "price": "₹ 1699"
-    },
-    {
-      "id": 41,
-      "title": "Beige High-Waist Trousers",
-      "image": "/images/Beige High-Waist Trousers.png",
-      "description": "High-rise beige trousers with a structured fit. A wardrobe essential for formal and business styling.",
-      "category": "womens",
-      "price": "₹ 1799"
-    },
-    {
-      "id": 42,
-      "title": "Dark Blue Straight Jeans",
-      "image": "/images/Dark Blue Straight Jeans.png",
-      "description": "Classic straight-fit jeans in deep blue denim. Durable, comfortable, and suitable for daily wear.",
-      "category": "womens",
-      "price": "₹ 1699"
-    },
-    {
-      "id": 42,
-      "title": "Light Blue High-Rise Jeans",
-      "image": "/images/Light Blue High-Rise Jeans.png",
-      "description": "Light-wash jeans with a flattering high-rise fit. Gives a modern, fresh denim look.",
-      "category": "womens",
-      "price": "₹ 1699"
-    },
-    {
-      "id": 44,
-      "title": "Gray Loose-Fit Wool Pants",
-      "image": "/images/Gray Loose-Fit Wool Pants.png",
-      "description": "Soft gray wool pants with a relaxed fit. Warm and breathable, ideal for cool-weather outfits.",
-      "category": "womens",
-      "price": "₹ 1899"
-    },
-    {
-      "id": 45,
-      "title": "Black Casual Jogger Pants",
-      "image": "/images/Black Casual Jogger Pants.png",
-      "description": "Comfortable black joggers designed with a tapered fit. Perfect for casual wear or athleisure styling.",
-      "category": "womens",
-      "price": "₹ 1299"
-    },
-    {
-      "id": 46,
-      "title": "White Straight-Leg Trousers",
-      "image": "/images/White Straight-Leg Trousers.png",
-      "description": "Crisp white trousers with a straight-leg profile. Clean and minimal design suitable for both formal and casual looks.",
-      "category": "womens",
-      "price": "₹ 1799"
-    },
-    {
-      "id": 47,
       "title": "Black Fit & Flare Dress",
       "image": "/images/Black Fit & Flare Dress.png",
       "description": "Elegant black fit and flare dress with a structured bodice and flowing skirt. Perfect for evening wear and formal occasions.",
@@ -377,7 +297,7 @@
       "price": "₹ 1999"
     },
     {
-      "id": 48,
+      "id": 38,
       "title": "Charcoal Blazer Dress",
       "image": "/images/Charcoal Blazer Dress.png",
       "description": "Modern charcoal blazer-style dress featuring a tailored fit and sharp lapels. Ideal for power dressing and smart outings.",
@@ -385,7 +305,7 @@
       "price": "₹ 2499"
     },
     {
-      "id": 49,
+      "id": 39,
       "title": "Red Double-Breasted Coat Dress",
       "image": "/images/Red Double-Breasted Coat Dress.png",
       "description": "Bold red coat-style dress with a double-breasted front. Makes a strong statement while keeping a clean silhouette.",
@@ -393,7 +313,7 @@
       "price": "₹ 2899"
     },
     {
-      "id": 50,
+      "id": 40,
       "title": "Plum Sleeveless Midi Dress",
       "image": "/images/Plum Sleeveless Midi Dress.png",
       "description": "Minimal plum-colored midi dress with a sleeveless cut. Sleek, graceful, and suitable for both casual and semi-formal looks.",
@@ -401,7 +321,7 @@
       "price": "₹ 1799"
     },
     {
-      "id": 51,
+      "id": 41,
       "title": "Black Bodycon Dress",
       "image": "/images/Black Bodycon Dress.png",
       "description": "Classic black bodycon dress with a figure-hugging fit. A timeless essential for parties and night events.",
@@ -409,7 +329,7 @@
       "price": "₹ 1699"
     },
     {
-      "id": 52,
+      "id": 42,
       "title": "Navy Blue Satin Dress",
       "image": "/images/Navy Blue Satin Dress.png",
       "description": "Smooth navy blue satin dress with a soft drape and refined finish. Designed for elegant evenings and dinners.",
@@ -417,7 +337,7 @@
       "price": "₹ 2199"
     },
     {
-      "id": 53,
+      "id": 43,
       "title": "Red Ruffle Mini Dress",
       "image": "/images/Red Ruffle Mini Dress.png",
       "description": "Playful red mini dress featuring ruffle detailing and a flared hem. Perfect for festive and casual outings.",
@@ -425,7 +345,7 @@
       "price": "₹ 1599"
     },
     {
-      "id": 54,
+      "id": 44,
       "title": "Brown Relaxed Fit Dress",
       "image": "/images/Brown Relaxed Fit Dress.png",
       "description": "Comfortable brown dress with a relaxed silhouette. Simple, versatile, and easy to style for everyday wear.",
@@ -433,7 +353,7 @@
       "price": "₹ 1499"
     },
     {
-      "id": 55,
+      "id": 45,
       "title": "Maroon Short Dress",
       "image": "/images/Maroon Short Dress.png",
       "description": "Chic maroon short dress with a flattering cut. Designed for casual evenings and social gatherings.",
@@ -441,12 +361,92 @@
       "price": "₹ 1699"
     },
     {
-      "id": 56,
+      "id": 46,
       "title": "Pastel Yellow Midi Dress",
       "image": "/images/Pastel Yellow Midi Dress.png",
       "description": "Soft pastel yellow midi dress with a clean and airy look. Lightweight and ideal for daytime wear.",
       "category": "womens",
       "price": "₹ 1899"
+    },
+    {
+      "id": 47,
+      "title": "Dark Green Wide-Leg Pants",
+      "image": "/images/Dark Green Wide-Leg Pants.png",
+      "description": "Relaxed-fit wide-leg pants in deep green. Soft drape with a smooth matte texture, perfect for casual or semi-formal outfits.",
+      "category": "womens",
+      "price": "₹ 1399"
+    },
+    {
+      "id": 48,
+      "title": "Wine Red Straight Pants",
+      "image": "/images/Wine Red Straight Pants.png",
+      "description": "Straight-cut pants featuring a rich wine-red shade. Clean silhouette suitable for office and daily wear.",
+      "category": "womens",
+      "price": "₹ 1499"
+    },
+    {
+      "id": 49,
+      "title": "Black Slim-Fit Pants",
+      "image": "/images/Black Slim-Fit Pants.png",
+      "description": "Minimalistic slim-fit black pants designed for a crisp, streamlined look. Comfortable stretch for everyday movement.",
+      "category": "womens",
+      "price": "₹ 1599"
+    },
+    {
+      "id": 50,
+      "title": "Black Patterned Palazzo Pants",
+      "image": "/images/Black Patterned Palazzo Pants.png",
+      "description": "Lightweight palazzo pants featuring a soft pattern. Airy, flowy, and ideal for relaxed or summer outfits.",
+      "category": "feature",
+      "price": "₹ 1699"
+    },
+    {
+      "id": 51,
+      "title": "Beige High-Waist Trousers",
+      "image": "/images/Beige High-Waist Trousers.png",
+      "description": "High-rise beige trousers with a structured fit. A wardrobe essential for formal and business styling.",
+      "category": "womens",
+      "price": "₹ 1799"
+    },
+    {
+      "id": 52,
+      "title": "Dark Blue Straight Jeans",
+      "image": "/images/Dark Blue Straight Jeans.png",
+      "description": "Classic straight-fit jeans in deep blue denim. Durable, comfortable, and suitable for daily wear.",
+      "category": "womens",
+      "price": "₹ 1699"
+    },
+    {
+      "id": 53,
+      "title": "Light Blue High-Rise Jeans",
+      "image": "/images/Light Blue High-Rise Jeans.png",
+      "description": "Light-wash jeans with a flattering high-rise fit. Gives a modern, fresh denim look.",
+      "category": "womens",
+      "price": "₹ 1699"
+    },
+    {
+      "id": 54,
+      "title": "Gray Loose-Fit Wool Pants",
+      "image": "/images/Gray Loose-Fit Wool Pants.png",
+      "description": "Soft gray wool pants with a relaxed fit. Warm and breathable, ideal for cool-weather outfits.",
+      "category": "feature",
+      "price": "₹ 1899"
+    },
+    {
+      "id": 55,
+      "title": "Black Casual Jogger Pants",
+      "image": "/images/Black Casual Jogger Pants.png",
+      "description": "Comfortable black joggers designed with a tapered fit. Perfect for casual wear or athleisure styling.",
+      "category": "womens",
+      "price": "₹ 1299"
+    },
+    {
+      "id": 56,
+      "title": "White Straight-Leg Trousers",
+      "image": "/images/White Straight-Leg Trousers.png",
+      "description": "Crisp white trousers with a straight-leg profile. Clean and minimal design suitable for both formal and casual looks.",
+      "category": "womens",
+      "price": "₹ 1799"
     }
   ]
 }
