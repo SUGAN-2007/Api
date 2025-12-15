@@ -21,7 +21,7 @@
       "title": "Black Casual Cardigan",
       "image": "/images/Black Casual Cardigan.png",
       "description": "A deep black cardigan made from warm, premium knit fabric. Soft touch with flexible stretch for comfortable layering. Long-sleeve design suitable for cool weather.",
-      "category": "mens",
+      "category": "feature",
       "price": "₹ 1799"
     },
     {
@@ -53,7 +53,7 @@
       "title": "Black Zip-Up Sweater",
       "image": "/images/Black Zip-Up Sweater.png",
       "description": "A jet-black zip-up sweater crafted from soft knitted material. Offers great insulation with a comfortable stretch fit. Full sleeves for added warmth.",
-      "category": "mens",
+      "category": "feature",
       "price": "₹ 1699"
     },
     {
@@ -77,7 +77,7 @@
       "title": "Beige Premium Blazer",
       "image": "/images/Beige Premium Blazer.png",
       "description": "A premium beige blazer crafted with soft textured fabric. Offers a structured fit with long sleeves and a refined modern look. Ideal for events and semi-formal styling.",
-      "category": "mens",
+      "category": "feature",
       "price": "₹ 2999"
     },
     {
@@ -133,7 +133,7 @@
       "title": "Black Formal Pants",
       "image": "/images/Black Formal Pants.png",
       "description": "Classic black formal pants made with high-quality blended fabric. Offers a crisp structure with a comfortable full-length design. Ideal for office or formal events.",
-      "category": "mens",
+      "category": "feature",
       "price": "₹ 1899"
     },
     {
@@ -141,7 +141,7 @@
       "title": "White Cotton Trousers",
       "image": "/images/White Cotton Trousers.png",
       "description": "Lightweight white trousers crafted from breathable cotton. Smooth texture with a straight-cut fit. Perfect for summer and relaxed outfits.",
-      "category": "mens",
+      "category": "feature",
       "price": "₹ 1599"
     },
     {
@@ -197,7 +197,7 @@
       "title": "Black Knit Cardigan Top",
       "image": "/images/Black Knit Cardigan Top.png",
       "description": "A premium black knit top crafted from warm and breathable fabric. Long sleeves with a soft, cozy texture make it great for layering. Perfect for cool-weather outfits.",
-      "category": "womens",
+      "category": "Black Knit Cardigan Top",
       "price": "₹ 1699"
     },
     {
@@ -245,7 +245,7 @@
       "title": "Grey Ribbed Knit Top",
       "image": "/images/Grey Ribbed Knit Top.png",
       "description": "A grey ribbed knit top with a smooth, stretchy texture. Long sleeves and a soft fabric feel make it comfortable for all-day wear. Minimal and stylish.",
-      "category": "womens",
+      "category": "feature",
       "price": "₹ 1499"
     },
     {
@@ -317,7 +317,7 @@
       "title": "Black Patterned Palazzo Pants",
       "image": "/images/Black Patterned Palazzo Pants.png",
       "description": "Lightweight palazzo pants featuring a soft pattern. Airy, flowy, and ideal for relaxed or summer outfits.",
-      "category": "womens",
+      "category": "feature",
       "price": "₹ 1699"
     },
     {
@@ -373,7 +373,7 @@
       "title": "Black Fit & Flare Dress",
       "image": "/images/Black Fit & Flare Dress.png",
       "description": "Elegant black fit and flare dress with a structured bodice and flowing skirt. Perfect for evening wear and formal occasions.",
-      "category": "womens",
+      "category": "feature",
       "price": "₹ 1999"
     },
     {
@@ -389,7 +389,7 @@
       "title": "Red Double-Breasted Coat Dress",
       "image": "/images/Red Double-Breasted Coat Dress.png",
       "description": "Bold red coat-style dress with a double-breasted front. Makes a strong statement while keeping a clean silhouette.",
-      "category": "womens",
+      "category": "feature",
       "price": "₹ 2899"
     },
     {
